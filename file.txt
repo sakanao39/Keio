@@ -1,0 +1,805 @@
+<div class="switcher">
+			<div class="center-block">
+				<!-- switcher mask of the page -->
+				<div class="switcher-mask">
+					<!-- switcher slide of the page -->
+					<div class="slide">
+						<div class="switcher-slide">
+							<div class="slide-holder">
+								<div class="img-holder">
+									<img src="images/img02.jpg" alt="image description">
+								</div>
+								<h2><a href="single-post.html">Letter from the desk of an <br>unsuccessful designer</a></h2>
+								<time datetime="2011-01-12"><a href="#">2nd january, 2016</a></time>
+							</div>
+						</div>
+					</div>
+					<!-- switcher slide of the page end -->
+					<!-- switcher slide of the page -->
+					<div class="slide">
+						<div class="switcher-slide">
+							<div class="slide-holder">
+								<div class="img-holder">
+									<img src="images/img03.jpg" alt="image description">
+								</div>
+								<h2><a href="single-post.html">Letter from the desk of an <br>unsuccessful designer</a></h2>
+								<time datetime="2011-01-12"><a href="#">2nd january, 2016</a></time>
+							</div>
+						</div>
+					</div>
+					<!-- switcher slide of the page end -->
+					<!-- switcher slide of the page -->
+					<div class="slide">
+						<div class="switcher-slide">
+							<div class="slide-holder">
+								<div class="img-holder">
+									<img src="images/img04.jpg" alt="image description">
+								</div>
+								<h2><a href="single-post.html">Letter from the desk of an <br>unsuccessful designer</a></h2>
+								<time datetime="2011-01-12"><a href="#">2nd january, 2016</a></time>
+							</div>
+						</div>
+					</div>
+					<!-- switcher slide of the page end -->
+					<!-- switcher slide of the page -->
+					<div class="slide">
+						<div class="switcher-slide">
+							<div class="slide-holder">
+								<div class="img-holder">
+									<img src="images/img05.jpg" alt="image description">
+								</div>
+								<h2><a href="single-post.html">Letter from the desk of an <br>unsuccessful designer</a></h2>
+								<time datetime="2011-01-12"><a href="#">2nd january, 2016</a></time>
+							</div>
+						</div>
+					</div>
+					<!-- switcher slide of the page end -->
+					<!-- switcher slide of the page -->
+					<div class="slide">
+						<div class="switcher-slide">
+							<div class="slide-holder">
+								<div class="img-holder">
+									<img src="images/img02.jpg" alt="image description">
+								</div>
+								<h2><a href="single-post.html">Letter from the desk of an <br>unsuccessful designer</a></h2>
+								<time datetime="2011-01-12"><a href="#">2nd january, 2016</a></time>
+							</div>
+						</div>
+					</div>
+					<!-- switcher slide of the page end -->
+				</div>
+				<!-- switcher mask of the page end -->
+			</div>
+		</div>
+
+
+
+
+
+        <div class="blog-area bg-color-1 area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="section-headline white-headline text-center">
+						<h3>Games News</h3>
+						<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development
+							services.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="blog-grid">
+					<div class="col-md-8 col-sm-12 col-xs-12">
+						<div class="blog-right-column">
+							<div class="single-blog">
+								<div class="blog-image">
+									<a class="image-scale" href="#">
+										<img src="img/blog/b1.jpg" alt="">
+									</a>
+								</div>
+								<div class="blog-content">
+									<div class="blog-meta">
+										<span class="date-type">
+											15 july, 2017
+										</span>
+										<span class="comments-type">
+											<i class="fa fa-comment-o"></i>
+											10
+										</span>
+									</div>
+									<a href="#">
+										<h4>Cavalier Studios has been creating innovative games since 2003</h4>
+									</a>
+									<p>Cavalier is an engineering and general contracting group that has gained.</p>
+								</div>
+							</div>
+							<!-- End single blog -->
+							<div class="single-blog">
+								<div class="blog-image">
+									<a class="image-scale" href="#">
+										<img src="img/blog/b2.jpg" alt="">
+									</a>
+								</div>
+								<div class="blog-content">
+									<div class="blog-meta">
+										<span class="date-type">
+											10 feb, 2018
+										</span>
+										<span class="comments-type">
+											<i class="fa fa-comment-o"></i>
+											32
+										</span>
+									</div>
+									<a href="#">
+										<h4>We offer our clients professional development services.</h4>
+									</a>
+									<p>Cavalier is an engineering and general contracting group that has gained.</p>
+								</div>
+							</div>
+							<!-- End single blog -->
+							<div class="single-blog">
+								<div class="blog-image">
+									<a class="image-scale" href="#">
+										<img src="img/blog/b3.jpg" alt="">
+									</a>
+								</div>
+								<div class="blog-content">
+									<div class="blog-meta">
+										<span class="date-type">
+											20 jan, 2018
+										</span>
+										<span class="comments-type">
+											<i class="fa fa-comment-o"></i>
+											18
+										</span>
+									</div>
+									<a href="#">
+										<h4>Cavalier Studios has been creating innovative games since 2003</h4>
+									</a>
+									<p>Cavalier is an engineering and general contracting group that has gained.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End single blog -->
+					<!-- Start single blog -->
+					<div class="col-md-4 col-sm-12 col-xs-12">
+						<div class="single-blog">
+							<div class="blog-image">
+								<a class="image-scale" href="#">
+									<img src="img/blog/b4.jpg" alt="">
+								</a>
+							</div>
+							<div class="blog-content">
+								<div class="blog-meta">
+									<span class="date-type">
+										20 june, 2018
+									</span>
+									<span class="comments-type">
+										<i class="fa fa-comment-o"></i>
+										23
+									</span>
+								</div>
+								<a href="#">
+									<h4>We offer our clients professional development.</h4>
+								</a>
+								<p>Cavalier is an engineering and general contracting group that has gained its expertise over the past twenty-
+									six years.Konstract is an engineering and general contracting.Cavalier is an engineering and general
+									contracting group that has gained its expertise over the past twenty- six years.</p>
+								<a class="read-more" href="#"> Read more</a>
+							</div>
+						</div>
+					</div>
+					<!-- End single blog -->
+				</div>
+			</div>
+			<!-- End row -->
+		</div>
+	</div>
+
+
+
+    <footer>
+		<div class="footer-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 col-sm-5 col-xs-12">
+						<div class="footer-content">
+							<div class="footer-head">
+								<h4>Information</h4>
+								<div class="footer-contacts">
+									<p><span>Tel :</span> +1907-543478944</p>
+									<p><span>Email :</span> info@cavalier43.com</p>
+									<p><span>Location :</span> House-30/2, New york</p>
+								</div>
+								<div class="footer-icons">
+									<ul>
+										<li>
+											<a href="#">
+												<i class="fa fa-facebook"></i>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<i class="fa fa-twitter"></i>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<i class="fa fa-google"></i>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<i class="fa fa-pinterest"></i>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<i class="fa fa-instagram"></i>
+											</a>
+										</li>
+									</ul>
+								</div>
+
+							</div>
+						</div>
+					</div>
+					<!-- end single footer -->
+					<div class="col-md-4 col-sm-3 col-xs-12">
+						<div class="footer-content">
+							<div class="footer-head">
+								<h4>Competition Games</h4>
+								<div class="footer-services-link">
+									<ul class="footer-list">
+										<li><a href="#">Draogons war</a></li>
+										<li><a href="#">Stranger Anime</a></li>
+										<li><a href="#">Skyfall challange</a></li>
+										<li><a href="#">Ripple fight</a></li>
+										<li><a href="#">Alverter david</a></li>
+										<li><a href="#">Daneres fight</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end single footer -->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="footer-content">
+							<div class="footer-head">
+								<h4>Subscribe</h4>
+								<p>
+									Are you looking for professional games services for your new games.Are you looking for professional developer
+									for your new games.
+								</p>
+								<div class="subs-feilds">
+									<div class="suscribe-input">
+										<input type="email" class="email form-control width-80" id="sus_email" placeholder="Type Email">
+										<button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- end single footer -->
+				</div>
+			</div>
+		</div>
+		<!-- End footer area -->
+		<!-- <div class="footer-area-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="copyright">
+							<p>
+								Copyright © 2018
+								<a href="#">Cavalier</a> All Rights Reserved
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> -->
+	</footer>
+
+
+    <div class="product-area bg-color-1 area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="section-headline white-headline text-center">
+						<h3>Our Games</h3>
+						<p>Cavalier Studios has been creating innovative games since 2003. We offer our clients professional development
+							services.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="best-product">
+					<!-- Start single product -->
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="single-product">
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="product">
+									<div class="product-img">
+										<span class="category"> Pc</span>
+										<img class="first-img" src="img/product/p1.jpg" alt="">
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<!-- Start product content -->
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Temple Fight</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: June 2016</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: Free</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+							<!-- End product content -->
+						</div>
+					</div>
+					<!-- End single product -->
+					<!-- Start single product -->
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="single-product">
+							<!-- Start product content -->
+							<div class="col-md-6 col-sm-6 hidden-xs">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Dangers War</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: March 2017</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: Free</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+							<!-- End product content -->
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="product">
+									<div class="product-img">
+										<span class="category"> Ps4</span>
+										<img class="first-img" src="img/product/p2.jpg" alt="">
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="hidden-lg hidden-md hidden-sm col-xs-12">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Dangers War</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: March 2017</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: Free</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End single product -->
+					<!-- Start single product -->
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="single-product">
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="product">
+									<div class="product-img">
+										<span class="category"> Mobile</span>
+										<img class="first-img" src="img/product/p3.jpg" alt="">
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<!-- Start product content -->
+							<div class="col-md-6 col-sm-6 col-xs-12">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Angels fight</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: january 2017</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: $80</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+							<!-- End product content -->
+						</div>
+					</div>
+					<!-- End single product -->
+					<!-- Start single product -->
+					<div class="col-md-12 col-sm-12 col-xs-12">
+						<div class="single-product last-item">
+							<!-- Start product content -->
+							<div class="col-md-6 col-sm-6 hidden-xs">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Dragons War</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: February 2018</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: $100</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+							<!-- End product content -->
+							<div class="col-md-6 col-sm-6">
+								<div class="product">
+									<div class="product-img">
+										<span class="category"> Pc</span>
+										<img class="first-img" src="img/product/p4.jpg" alt="">
+										<a href="https://www.youtube.com/watch?v=O33uuBh6nXA" class="video-play vid-zone">
+											<i class="fa fa-play"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+							<div class="hidden-lg hidden-md hidden-sm col-xs-12">
+								<div class="product-content text-center">
+									<h4 class="product-name">
+										<a href="#">Dragons War</a>
+									</h4>
+									<div class="launch-date">
+										<span>Launch: February 2018</span>
+									</div>
+									<div class="price-box">
+										<span class="price">Price: $100</span>
+									</div>
+									<div class="pro-rating no-rating">
+										<span class="rating-rate"> Rating: 4.5</span>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+										<a href="#"><i class="fa fa-star-o"></i></a>
+									</div>
+									<div class="download-btn">
+										<span class="play-btn"><img src="img/icon/gplay.png" alt=""></span>
+										<span class="play-btn"><img src="img/icon/aplay.png" alt=""></span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End single product -->
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+    	<div class="services-area bg-color-2 area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="services-carousel">
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/1.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g1.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Ripple Royal</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/2.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g2.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Dancei roy</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/3.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g3.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Fight challange</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/4.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g4.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Sky blue</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/5.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g5.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Dragon world</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+					<div class="col-md-4 col-sm-4 col-xs-12">
+						<div class="single-services text-center">
+							<div class="services-img">
+								<img src="img/feature/6.jpg" alt="">
+								<div class="image-layer">
+									<img src="img/icon/g6.png" alt="icon Image">
+								</div>
+							</div>
+							<div class="main-services">
+								<div class="service-content">
+									<h4>Strange anime</h4>
+									<p>Comming soon Feb 4, 2019</p>
+									<a class="service-btn" href="#">Learn more</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- single-well end-->
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+    <div class="reviews-area bg-color-1 fix area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="section-headline white-headline text-center">
+						<h3>イベント</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="Reviews-content">
+						<!-- start testimonial carousel -->
+						<div class="testimonial-carousel item-indicator">
+							<div class="single-testi">
+								<div class="testi-img ">
+									<img src="img/review/1.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img ">
+									<img src="img/review/2.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img">
+									<img src="img/review/3.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img">
+									<img src="img/review/4.jpg" alt="">
+								</div>
+
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genaral manager</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+    <div class="reviews-area bg-color-1 fix area-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="section-headline white-headline text-center">
+						<h3>イベント</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12">
+					<div class="Reviews-content">
+						<!-- start testimonial carousel -->
+						<div class="testimonial-carousel item-indicator">
+							<div class="single-testi">
+								<div class="testi-img ">
+									<img src="img/review/1.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img ">
+									<img src="img/review/2.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img">
+									<img src="img/review/3.jpg" alt="">
+								</div>
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genarel customer</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+							<div class="single-testi">
+								<div class="testi-img">
+									<img src="img/review/4.jpg" alt="">
+								</div>
+
+								<div class="testi-text">
+									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+									<h4>NAME NAME</h4>
+									<span class="guest-rev">Clients - <a href="#">Genaral manager</a></span>
+								</div>
+							</div>
+							<!-- End single item -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
