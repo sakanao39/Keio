@@ -1,0 +1,16 @@
+{
+  "name": "jquerymbvr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@types/bootstrap": "^4.2.0",
+    "@types/jquery": "^3.3.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc -w & live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
